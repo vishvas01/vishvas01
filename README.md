@@ -1,7 +1,6 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/vishvas01">Vishvas Patel</a>'s Profile </h1>
 </p>
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/45497718/232299186-7bc339c5-e169-4574-a644-1eaa70616ff0.gif)
 
 <p> I'm a Web Developer, I also like to create projects in React.</p>
 
