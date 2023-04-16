@@ -3,7 +3,7 @@
 </p>
 
 <p> I'm a Web Developer, I also like to create projects in React.</p>
-<iframe src="https://giphy.com/embed/Q2T7BXRiDFPJcPoA7Z" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bringglobal-work-computer-laptop-Q2T7BXRiDFPJcPoA7Z"></a></p>
+<div class="tenor-gif-embed" data-postid="18655255" data-share-method="host" data-aspect-ratio="1.50943" data-width="100%"><a href="https://tenor.com/view/coding-gif-18655255">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
 <ul>
   <li>👋 Hello, I’m Vishvas Patel</li>
   <li>❤️ I love to bring ideas to browser.</li>
