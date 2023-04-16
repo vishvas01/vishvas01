@@ -3,8 +3,9 @@
 </p>
 
 <p> I'm a Web Developer, I also like to create projects in React.</p>
-![image](https://user-images.githubusercontent.com/45497718/232298903-c879f8d1-e01c-4574-812f-997ac2c766a9.png)
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/45497718/232299186-7bc339c5-e169-4574-a644-1eaa70616ff0.gif)
 
+<ul>
   <li>👋 Hello, I’m Vishvas Patel</li>
   <li>❤️ I love to bring ideas to browser.</li>
   <li>🌱 I’m currently learning Web Development,Data Structures and Alogrithms</li>
