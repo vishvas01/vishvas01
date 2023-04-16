@@ -3,8 +3,8 @@
 </p>
 
 <p> I'm a Web Developer, I also like to create projects in React.</p>
-<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/giphy/">giphy embed</a> generator</small></iframe></div>
-<ul>
+![image](https://user-images.githubusercontent.com/45497718/232298903-c879f8d1-e01c-4574-812f-997ac2c766a9.png)
+
   <li>👋 Hello, I’m Vishvas Patel</li>
   <li>❤️ I love to bring ideas to browser.</li>
   <li>🌱 I’m currently learning Web Development,Data Structures and Alogrithms</li>
